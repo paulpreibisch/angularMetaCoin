@@ -55333,7 +55333,7 @@ angular.module('angularTruffleMetaCoin')
 angular.module('angularTruffleMetaCoin')
     .controller('MainCtrl', function ($scope,$timeout) {
         $scope.accounts = [];
-        $scope.balance="5";
+        $scope.balance="0";
         $scope.account = "0xda80306d17620032f5b690c81b47db4737c6faca";
         $timeout(function(){
             $scope.refreshBalance();
