@@ -4,7 +4,6 @@ module.exports = {
     "main.html": "views/main.html",
     "about.html": "views/about.html",
     "app.js": [
-
       "bower_components/jquery/dist/jquery.js",
       "bower_components/angular/angular.js",
       "bower_components/angular-animate/angular-animate.js",

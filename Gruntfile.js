@@ -21,7 +21,7 @@ module.exports = function (grunt) {
 
   // Configurable paths for the application
   var appConfig = {
-    app: require('./bower.json').appPath || 'app',
+    app: require('./truffle/app/bower.json').appPath || 'app',
     dist: 'dist'
   };
 
