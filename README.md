@@ -19,6 +19,10 @@ This will install all the angular dependencies in truffle/app/bower_components
 To run
 *  `truffle build`
 *  `truffle serve`
+Then go to: http://localhost:8080
+
+Note: If you get a port error, you can run truffle on a differnt port
+*  `truffle -p 8081 serve`
 
 ## Preview
 
