@@ -3,6 +3,8 @@ module.exports = {
     "index.html": "index.html",
     "main.html": "views/main.html",
     "about.html": "views/about.html",
+    "bootstrap.css": "bower_components/bootstrap/dist/css/bootstrap.css",
+    "bootstrap.js": "bower_components/bootstrap/dist/js/bootstrap.js",
     "app.js": [
       "bower_components/jquery/dist/jquery.js",
       "bower_components/angular/angular.js",
